@@ -1,0 +1,2444 @@
+{
+  "iocs": [
+    {
+      "enrich": false,
+      "min_seq": 907342727,
+      "value": "192.168.123.14/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "87df62ca-29ef-414a-8922-2e5cbfc053b3",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-05 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "a44b8d59-f43f-4022-8d82-6456fe708173",
+        "b67cc664-7b4a-4418-901e-6858e8b7890f",
+        "845717e5-31a6-4d33-913e-de51342518c6"
+      ],
+      "enriched_at": "2017-09-01 02:50:04.000000+02:00",
+      "first_seen": "2017-09-01 07:44:00+02:00",
+      "families": [
+        "pizd"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:JP",
+        "owner:ACME,Inc"
+      ],
+      "max_seq": 907342727
+    },
+    {
+      "enrich": false,
+      "min_seq": 661277666,
+      "value": "192.168.234.222/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "fe2ac11a-b039-4a06-a6e8-7b62e33c7ec2",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-08 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "51410b2e-8870-4716-8e78-d11d6b880d47",
+        "244580db-4b6f-46ea-bcb2-9c09ef75f3ca"
+      ],
+      "enriched_at": "2017-09-01 14:15:10.000000+02:00",
+      "first_seen": "2017-09-01 12:04:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 661277666
+    },
+    {
+      "enrich": false,
+      "min_seq": 689522002,
+      "value": "192.168.012.228/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "6302e747-1fd5-4562-827a-ab6617bb9ab4",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-04 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "36444755-b411-4eb9-824f-671525909ffa"
+      ],
+      "enriched_at": "2017-09-02 04:09:06.000000+02:00",
+      "first_seen": "2017-09-02 00:55:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 689522002
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845675,
+      "value": "192.168.012.225/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "40aa529e-ee35-4f5e-bb3d-4cd21715440a",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-07 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "c6aa37c4-9b13-41be-8277-c677e1a1c47c",
+        "d88dfc1b-7d4b-4fdc-831c-2cfa21a4ae8f",
+        "12cdc992-5017-4eaa-9526-7504318245f4",
+        "76de7bbf-2449-4893-a177-84bf00217183"
+      ],
+      "enriched_at": "2017-09-01 13:07:06.000000+02:00",
+      "first_seen": "2017-09-01 07:21:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 696845675
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845702,
+      "value": "192.168.210.130/32",
+      "source_names": [
+        "IOCWizzard"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "27ef9a0e-a86a-4f0b-9848-db860878839f",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-02 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "b889a2a6-e45a-470c-8d67-e208624bd672"
+      ],
+      "enriched_at": "2017-09-01 09:09:05.000000+02:00",
+      "first_seen": "2017-09-01 02:44:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 696845702
+    },
+    {
+      "enrich": false,
+      "min_seq": 975728427,
+      "value": "192.168.210.95/32",
+      "source_names": [
+        "IOCWizzard"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "83a65030-ecfa-4334-892a-a21de17bf544",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-06 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "87120751-679f-4356-8899-a993e3ed172c"
+      ],
+      "enriched_at": "2017-09-01 08:11:11.123456+02:00",
+      "first_seen": "2017-09-01 06:59:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:ES"
+      ],
+      "max_seq": 975728427
+    },
+    {
+      "enrich": false,
+      "min_seq": 846869624,
+      "value": "192.168.123.137/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-30 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "04a4f148-52d0-4235-a45e-61744cdb9482",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-14 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "93bd461b-100e-41bc-a6a5-402006b43c78"
+      ],
+      "enriched_at": "2017-09-01 16:03:08.123456+02:00",
+      "first_seen": "2017-09-01 07:08:02+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:NL"
+      ],
+      "max_seq": 846869624
+    },
+    {
+      "enrich": false,
+      "min_seq": 663702071,
+      "value": "192.168.123.108/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-05 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "75137eb1-e1d7-4b4e-abe8-b3712549ea1f",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-18 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "35090b1d-285c-4cfb-b112-21cc4a923e2f"
+      ],
+      "enriched_at": "2017-09-01 14:55:02.123456+02:00",
+      "first_seen": "2017-09-01 12:44:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:RU"
+      ],
+      "max_seq": 663702071
+    },
+    {
+      "enrich": false,
+      "min_seq": 663701439,
+      "value": "192.168.110.39/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-22 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "49c4f56f-2686-4b48-9498-743d2b3ab981",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-01 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "2c636e8d-ed2c-493d-ac42-47629ea25943"
+      ],
+      "enriched_at": "2017-09-01 13:05:02.123456+02:00",
+      "first_seen": "2017-09-01 10:34:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:RU"
+      ],
+      "max_seq": 663701439
+    },
+    {
+      "enrich": false,
+      "min_seq": 653382587,
+      "value": "192.168.024.23/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-02 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "b20a70be-e73a-4084-9fe4-0361165efcda",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-04 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "5b7cd76c-a2c0-4195-a597-7f8f621ea3e9"
+      ],
+      "enriched_at": "2017-09-01 09:44:04.123456+02:00",
+      "first_seen": "2017-09-01 08:55:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 653382587
+    },
+    {
+      "enrich": false,
+      "min_seq": 653381120,
+      "value": "192.168.053.83/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-22 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "02d164b3-3012-4750-bddf-2037e9b97987",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-07 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "c1780a65-138a-4c43-ae52-669b02c07da1"
+      ],
+      "enriched_at": "2017-09-01 08:08:04.123456+02:00",
+      "first_seen": "2017-09-01 06:05:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US",
+        "owner:TierraNet Inc."
+      ],
+      "max_seq": 653381120
+    },
+    {
+      "enrich": false,
+      "min_seq": 975728906,
+      "value": "192.168.168.6/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-12 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "f6ef9885-08f7-467b-8bfa-b441cb77b721",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-05 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "2f57ecd7-8ce4-4e94-9869-87a03107577b"
+      ],
+      "enriched_at": "2017-09-01 17:44:06.123456+02:00",
+      "first_seen": "2017-09-01 03:07:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:CZ"
+      ],
+      "max_seq": 975728906
+    },
+    {
+      "enrich": false,
+      "min_seq": 697151144,
+      "value": "192.168.47.48/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-23 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "7164ae55-d57a-4e97-b84b-554e9290d080",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-09 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "597d3068-e5ef-4b55-9ed5-d0432eaf17db"
+      ],
+      "enriched_at": "2017-09-01 16:58:05.123456+02:00",
+      "first_seen": "2017-09-01 14:12:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:DE"
+      ],
+      "max_seq": 697151144
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845574,
+      "value": "192.168.3.59/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-11 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "2001bbfb-dfa7-4067-9861-f2588e5b87bd",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-11 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "4b828147-d2aa-4540-87f5-201058104b2c"
+      ],
+      "enriched_at": "2017-09-01 13:46:05.123456+02:00",
+      "first_seen": "2017-09-01 11:03:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:CZ"
+      ],
+      "max_seq": 696845574
+    },
+    {
+      "enrich": false,
+      "min_seq": 697150971,
+      "value": "192.168.12.153/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-14 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "51933ced-9929-4a4e-8432-3416adbe2cdc",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-14 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "8ae115bb-79fe-4113-b355-91ddc984dfe5"
+      ],
+      "enriched_at": "2017-09-01 11:04:05.123456+02:00",
+      "first_seen": "2017-09-01 10:56:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:FR"
+      ],
+      "max_seq": 697150971
+    },
+    {
+      "enrich": false,
+      "min_seq": 695321802,
+      "value": "192.168.7.185/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-07 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "2833819d-54ba-4941-b6cc-0d192dad55bc",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-04 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "52c80fe9-c27c-465b-bde2-7a61d34034ef"
+      ],
+      "enriched_at": "2017-09-01 12:00:06.123456+02:00",
+      "first_seen": "2017-09-01 10:22:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:FR"
+      ],
+      "max_seq": 695321802
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845764,
+      "value": "192.168.124.124/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-03 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "e8773090-116e-4f62-a4cd-fc4ac182aa7d",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-01 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "ff1a9e68-bf18-4b9b-8765-412e36088b21"
+      ],
+      "enriched_at": "2017-09-01 10:15:04.123456+02:00",
+      "first_seen": "2017-09-01 09:47:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:DE"
+      ],
+      "max_seq": 696845764
+    },
+    {
+      "enrich": false,
+      "min_seq": 658214473,
+      "value": "192.168.88.129/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-06 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "714b7960-83f4-4baf-9918-595f3a510066",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-07 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "39ee3a65-905a-4a1f-aaff-9d3db58f9c6d"
+      ],
+      "enriched_at": "2017-09-01 09:14:08.123456+02:00",
+      "first_seen": "2017-09-01 08:56:02+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:GB"
+      ],
+      "max_seq": 658214473
+    },
+    {
+      "enrich": false,
+      "min_seq": 975728272,
+      "value": "192.168.3.16/32",
+      "source_names": [
+        "bubbleList_bad_iplist",
+        "bubbleList_ip_blocklist",
+        "ioc_yard",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-07 10:30:00+02:00",
+      "entity_ids": [
+        "cec18753-5cf0-4720-b9ee-53be61a4279a",
+        "0ef7874b-7c20-45a9-bfb0-7b9c84abfff2",
+        "d3b571e4-fb24-4ef9-8d3e-a557189c4126",
+        "9a1ad034-afe8-44e4-9cc7-184569debfc3",
+        "c23c1281-9edd-427e-b43f-b7db9d60765b"
+      ],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "08a1010f-db2e-48f6-99e8-7f8ef050ca84",
+      "t_1": null,
+      "min_severity": 0,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-05 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "8e3b1b71-867f-4d96-8b5e-d917e1b24756",
+        "3a0785d9-dbb3-46be-a624-ac8d2633f63b",
+        "a081d69a-4a78-4ab6-8e24-4a8a1432e8e6",
+        "21a0fc20-2d77-4676-92e3-1c1f63eff213"
+      ],
+      "enriched_at": "2017-09-01 14:18:03.123456+02:00",
+      "first_seen": "2017-09-01 13:00:02+02:00",
+      "families": [
+        "http_post"
+      ],
+      "source_pseudonyms": [
+        "62325783",
+        "54a315c2",
+        "f2317d24",
+        "c2536773"
+      ],
+      "event_attributes": [
+        "category:c2-server",
+        "category:malware"
+      ],
+      "min_confidence": 16,
+      "n_occurrences": 4,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:GB"
+      ],
+      "max_seq": 975846835
+    },
+    {
+      "enrich": false,
+      "min_seq": 852708951,
+      "value": "192.168.211.124/32",
+      "source_names": [
+        "ioc_yard",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-14 10:30:00+02:00",
+      "entity_ids": [
+        "d9f990f1-4d5e-4151-9940-21941a169769",
+        "461bf77d-6ff6-444e-80f5-c62b44e84602",
+        "858db649-61b6-48d1-ad22-f67e10fcaaea"
+      ],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "391b1357-4e33-4339-bb00-0e0519f66a42",
+      "t_1": null,
+      "min_severity": 0,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-06 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "5ba8b244-a2ba-4ef9-9329-f2f3808b7f6b",
+        "4c7de4b3-9489-4029-8d9a-09b129576da9"
+      ],
+      "enriched_at": "2017-09-01 22:19:08.123456+02:00",
+      "first_seen": "2017-09-01 21:00:00+02:00",
+      "families": [
+        "http_post"
+      ],
+      "source_pseudonyms": [
+        "54a315c2",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:c2-server",
+        "category:malware"
+      ],
+      "min_confidence": 16,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 975728753
+    },
+    {
+      "enrich": false,
+      "min_seq": 737043,
+      "value": "192.168.33.72/32",
+      "source_names": [
+        "ioc_yard_ip_blocklist",
+        "the_barn",
+        "ioc_yard",
+        "iocfoo"
+      ],
+      "last_seen": "2017-10-02 10:30:00+02:00",
+      "entity_ids": [
+        "26383c91-0c68-4911-9936-2e44f3b417bd",
+        "350d445a-f340-46aa-8a1f-c2f21dce5a04",
+        "5b94effe-8dcd-4b4c-a7fb-c0cf8b7eb3e9",
+        "5a66232f-ebb5-474f-a669-dd2e475a20f8",
+        "1d9aa8ce-31db-4b39-8a99-de6aead57509",
+        "85bb96fd-f8f0-448a-a94f-8d27fc6d6508",
+        "bbc19e4c-9c5a-484e-b65c-f18b65f3503b",
+        "78b9f443-5fa5-4f3a-a163-24b6963c4434"
+      ],
+      "categories": [
+        "malware",
+        "c2-server"
+      ],
+      "id": "914d504a-6e83-485b-9882-c05d25306d0e",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-09 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "39ee3a65-905a-4a1f-aaff-9d3db58f9c6d",
+        "8f79cc91-06c1-4ea9-a0b2-4660af9bb917",
+        "bac246ff-71de-4781-9ab0-7701691626be",
+        "a1313900-84e4-41d2-a9a1-b810a7bb6faa"
+      ],
+      "enriched_at": "2017-06-03 23:58:04.123456+02:00",
+      "first_seen": "2013-10-30 23:44:00+01:00",
+      "families": [
+        "andromeda",
+        "kraken"
+      ],
+      "source_pseudonyms": [
+        "453f1325",
+        "54a315c2",
+        "4632aa2f",
+        "945a4322"
+      ],
+      "event_attributes": [
+        "category:c2-server"
+      ],
+      "min_confidence": 40,
+      "n_occurrences": 4,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:DE"
+      ],
+      "max_seq": 975815900
+    },
+    {
+      "enrich": false,
+      "min_seq": 679804314,
+      "value": "192.168.17.134/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-01 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "5cde7dbe-7ae5-40c3-9305-6d41468f062f",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-01 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "0f282610-2c14-495a-9fb1-6764acede396"
+      ],
+      "enriched_at": "2017-09-01 19:12:08.123456+02:00",
+      "first_seen": "2017-09-01 14:05:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:UK"
+      ],
+      "max_seq": 679804314
+    },
+    {
+      "enrich": false,
+      "min_seq": 756800895,
+      "value": "192.168.97.20/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "2f1d8298-df94-4b9b-b5d6-460183b32df2",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-15 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "3cb8be50-6a0d-4c79-a802-713c136a7803"
+      ],
+      "enriched_at": "2017-09-01 17:50:08.123456+02:00",
+      "first_seen": "2017-09-01 16:55:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:CZ"
+      ],
+      "max_seq": 756800895
+    },
+    {
+      "enrich": false,
+      "min_seq": 722937489,
+      "value": "192.168.177.132/32",
+      "source_names": [
+        "ioc_yard",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-02 10:30:00+02:00",
+      "entity_ids": [
+        "14d281a5-84d5-41f8-a0ae-81e7454d25e5",
+        "91ef82de-5baa-4c8d-b257-f2dd8314b956"
+      ],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "2c17654e-31ce-43ab-a5b5-681c727f885f",
+      "t_1": null,
+      "min_severity": 0,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-16 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "4a3ab749-1aa7-4fef-8a11-743b529c0606",
+        "114a4987-c01d-4127-9afb-8f7e09b85e9e"
+      ],
+      "enriched_at": "2017-09-01 05:07:02.123456+02:00",
+      "first_seen": "2017-08-31 04:55:00+02:00",
+      "families": [
+        "http_post"
+      ],
+      "source_pseudonyms": [
+        "54a315c2",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:c2-server",
+        "category:malware"
+      ],
+      "min_confidence": 16,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:US"
+      ],
+      "max_seq": 921569247
+    },
+    {
+      "enrich": false,
+      "min_seq": 968733846,
+      "value": "192.168.19.226/32",
+      "source_names": [
+        "the_barn",
+        "ioc_yard"
+      ],
+      "last_seen": "2017-10-05 10:30:00+02:00",
+      "entity_ids": [
+        "8a3d00b7-0f52-4580-a3a9-5997553f74ea",
+        "3bcf9404-d421-47aa-83b6-f1eb6f19cb0a"
+      ],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "09886c4c-5a7e-4f02-8ad0-fc66ac6429fe",
+      "t_1": null,
+      "min_severity": 0,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-09 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "2c15d60d-dc6f-40c7-841e-59018b0c6ead",
+        "662bb018-b963-4088-8e9d-752185142e71"
+      ],
+      "enriched_at": "2017-09-01 12:02:08.123456+02:00",
+      "first_seen": "2017-09-01 07:51:00+02:00",
+      "families": [
+        "simda",
+        "http_post"
+      ],
+      "source_pseudonyms": [
+        "54a315c2",
+        "4632aa2f"
+      ],
+      "event_attributes": [
+        "category:c2-server"
+      ],
+      "min_confidence": 16,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:SZ"
+      ],
+      "max_seq": 975856028
+    },
+    {
+      "enrich": false,
+      "min_seq": 653382163,
+      "value": "192.168.99.90/32",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "1cea3836-fef4-429d-a2a0-6df758968a3c",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-08 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "78a88ec1-26ff-421c-9ce7-d6b3c8b37bf8"
+      ],
+      "enriched_at": "2017-09-01 09:09:04.123456+02:00",
+      "first_seen": "2017-09-01 03:42:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:DE",
+        "owner:ACME Solutions LLP"
+      ],
+      "max_seq": 653382163
+    },
+    {
+      "enrich": false,
+      "min_seq": 975802607,
+      "value": "192.168.66.44/32",
+      "source_names": [
+        "ioc_yard"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [
+        "20f30d8e-1474-4f8d-a810-0c660a005787",
+        "34333dba-6ee5-4659-86c6-a18c40404746",
+        "44e84571-6dc8-4c8a-9fa3-7dd1bced0091"
+      ],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "b6632694-9fe2-4b91-b63e-065c76354ff4",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-14 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "b51e228e-30ec-4b93-8591-22791e97550e"
+      ],
+      "enriched_at": "2017-09-07 06:00:17.123456+02:00",
+      "first_seen": "2017-09-01 04:55:00+02:00",
+      "families": [
+        "lokibot"
+      ],
+      "source_pseudonyms": [
+        "54a315c2"
+      ],
+      "event_attributes": [
+        "category:c2-server"
+      ],
+      "min_confidence": 64,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 64,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:SP"
+      ],
+      "max_seq": 975802607
+    },
+    {
+      "enrich": false,
+      "min_seq": 975728896,
+      "value": "192.168.87.198/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "e5e03323-c839-4b95-b0f8-b6f21a4b4816",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-11 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "135e2aea-9f51-498c-840d-8541d9bc6854"
+      ],
+      "enriched_at": "2017-09-01 09:46:03.123456+02:00",
+      "first_seen": "2017-09-01 09:16:02+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:UK"
+      ],
+      "max_seq": 975728896
+    },
+    {
+      "enrich": false,
+      "min_seq": 744668128,
+      "value": "192.168.129.1/32",
+      "source_names": [
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-18 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "ffcb4657-1b1c-4feb-9555-ebc85c4b1523",
+      "t_1": null,
+      "min_severity": 2,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-09 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "3c3a90e3-113e-4b02-bfab-b9419c82ea26"
+      ],
+      "enriched_at": "2017-09-01 14:49:02.123456+02:00",
+      "first_seen": "2017-09-01 08:09:03+02:00",
+      "families": [],
+      "source_pseudonyms": [
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 80,
+      "data_type": "IPv4",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "country:RU"
+      ],
+      "max_seq": 744668128
+    },
+    {
+      "enrich": false,
+      "min_seq": 953093,
+      "value": "foo12r4bar.ru",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs",
+        "epic_iocs"
+      ],
+      "last_seen": "2017-10-29 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "cybercrime",
+        "c2-server"
+      ],
+      "id": "9f27722f-a961-4546-931f-77ab1a9d9e04",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-04 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "3c3a90e3-113e-4b02-bfab-b9419c82ea26",
+        "553781e2-804c-4827-a5da-546c54acb478",
+        "2baedc03-1cf1-4f01-b8b8-5dbb65b69eec"
+      ],
+      "enriched_at": "2017-04-14 05:03:50.123456+02:00",
+      "first_seen": "2016-07-15 04:56:00+02:00",
+      "families": [
+        "dromedan"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24",
+        "8535676a"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 3,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:malicious web sites. hosted business applications"
+      ],
+      "max_seq": 975804515
+    },
+    {
+      "enrich": false,
+      "min_seq": 653379795,
+      "value": "foooo3bar3.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-25 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "01970f7c-6747-4ee8-9c3c-de22f000c5f6",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-09 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "eca4e8c7-3141-4ecc-aa32-a604780c5ce2"
+      ],
+      "enriched_at": "2017-09-01 05:06:06.123456+02:00",
+      "first_seen": "2017-09-01 04:00:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653379795
+    },
+    {
+      "enrich": false,
+      "min_seq": 653379971,
+      "value": "foopress.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-26 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "d2871945-8fb5-4d5a-894d-046e9ec34ca19",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-06 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "6c53a5c6-41fa-4995-823f-7e9e067a9bdb"
+      ],
+      "enriched_at": "2017-09-01 04:07:13.123456+02:00",
+      "first_seen": "2017-09-01 03:01:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:newly registered websites"
+      ],
+      "max_seq": 653379971
+    },
+    {
+      "enrich": false,
+      "min_seq": 907345434,
+      "value": "barfresh.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-10-23 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "8e95fa72-b205-4547-baa4-954cd73267b4",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-11 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "87fc141c-236f-4793-b81c-5c39f77e7800"
+      ],
+      "enriched_at": "2017-09-01 08:51:09.123456+02:00",
+      "first_seen": "2017-09-01 06:44:00+02:00",
+      "families": [
+        "pizd"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "dns-txt-entry:v=spf1 ip4:198.168.174.14 ~all"
+      ],
+      "max_seq": 907345434
+    },
+    {
+      "enrich": false,
+      "min_seq": 884750,
+      "value": "foofoobar.net",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-01 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "1d42bd2b-af6a-4a91-8961-705aabb08a04",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-01 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "87fc141c-236f-4793-b81c-5c39f77e7800",
+        "c33458cb-8b2d-46df-9cf0-98e84fa642ba"
+      ],
+      "enriched_at": "2017-04-15 09:29:22.123456+02:00",
+      "first_seen": "2016-08-09 07:31:03+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653380552
+    },
+    {
+      "enrich": false,
+      "min_seq": 695320047,
+      "value": "thefoomeetsthebar.com",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-04 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "7e326bd1-6138-4b68-ab74-3035709e4d0f",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-03 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "b3a7bdde-ff1c-4eaf-9418-9b7a80ce23ab"
+      ],
+      "enriched_at": "2017-09-01 21:08:21.123456+02:00",
+      "first_seen": "2017-09-01 20:39:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 695320047
+    },
+    {
+      "enrich": false,
+      "min_seq": 1815771,
+      "value": "barfoobar.net",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-03 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "d32f26ff-73f6-4eb5-8afd-fad825c3464e",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-04 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "a817cf4d-ca4f-43c3-9db7-ad1d7efaf501",
+        "396c5f13-6817-496a-aa9b-b32096e65bd1"
+      ],
+      "enriched_at": "2017-04-15 17:04:50.123456+02:00",
+      "first_seen": "2016-08-09 16:17:03+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:bot networks"
+      ],
+      "max_seq": 653380689
+    },
+    {
+      "enrich": false,
+      "min_seq": 738698,
+      "value": "fellowthefoo.net",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-09-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "ec28502f-8386-4b03-9979-c262ce2aa34f",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-12 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "f3828a32-de21-4f12-9fe3-a14c5dfb65c3",
+        "e88314c9-1c59-451b-90dc-3671225ca2cd"
+      ],
+      "enriched_at": "2017-04-15 15:00:45.123456+02:00",
+      "first_seen": "2016-08-08 13:05:23+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653380440
+    },
+    {
+      "enrich": false,
+      "min_seq": 653379728,
+      "value": "hailthefoo.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-25 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "a9e60200-6423-4cff-8f2f-5d3b45286d28",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-16 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "0142048b-bd50-486c-91c9-4da44d9ed5f8"
+      ],
+      "enriched_at": "2017-09-01 16:19:09.123456+02:00",
+      "first_seen": "2017-09-01 15:14:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 653379728
+    },
+    {
+      "enrich": false,
+      "min_seq": 653380673,
+      "value": "barbar.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "3e202e21-526b-4475-a3e8-2ba976258d95",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-28 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "0142048b-bd50-486c-91c9-4da44d9ed5f8"
+      ],
+      "enriched_at": "2017-09-01 04:50:06.123456+02:00",
+      "first_seen": "2017-09-01 03:03:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653380673
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845283,
+      "value": "letthefoobegin.com",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-08 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "f31306ea-080f-4057-bed0-9d3504765942",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-22 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "c98251bc-b7a6-4241-9ad6-03e85de1e738"
+      ],
+      "enriched_at": "2017-09-01 05:03:21.123456+02:00",
+      "first_seen": "2017-09-01 03:59:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 696845283
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845142,
+      "value": "gameoffoo.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-25 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "bd226e6c-b4c8-48a0-a3df-ca521ccbb1ce",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-24 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "ea525044-9c07-4d39-bcfc-6623e9e1b86f"
+      ],
+      "enriched_at": "2017-09-01 13:30:30.123456+02:00",
+      "first_seen": "2017-09-01 12:47:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 696845142
+    },
+    {
+      "enrich": false,
+      "min_seq": 697150064,
+      "value": "1234foo.com",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-16 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "11ef687a-2307-424a-8a5e-cf4d203ad5eb",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-21 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "5304e0fe-de17-46c7-8777-572992596e88"
+      ],
+      "enriched_at": "2017-09-01 12:00:30.123456+02:00",
+      "first_seen": "2017-09-01 11:22:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 697150064
+    },
+    {
+      "enrich": false,
+      "min_seq": 653380695,
+      "value": "foofoo.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-17 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "ff2c3fa3-4d5e-4d33-9018-e11250402813",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-26 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "ec0e179f-d9d7-4f72-9b17-123259820a84"
+      ],
+      "enriched_at": "2017-09-01 16:05:06.123456+02:00",
+      "first_seen": "2017-09-01 05:33:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653380695
+    },
+    {
+      "enrich": false,
+      "min_seq": 696844846,
+      "value": "foo2bar.net",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-29 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "c5a4ea50-1297-4682-b07b-c27ae657fa47",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-16 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "25388153-2a90-4426-a505-11126898f551",
+        "c72f1486-f22a-4b1a-9ff5-f1c2fd35accb"
+      ],
+      "enriched_at": "2017-09-01 07:01:29.123456+02:00",
+      "first_seen": "2017-09-01 06:41:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:newly registered websites"
+      ],
+      "max_seq": 975768425
+    },
+    {
+      "enrich": false,
+      "min_seq": 653379772,
+      "value": "pointoffoo.net",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-28 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "630dc4c1-04e4-4718-aced-9515a55e384a",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-14 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "bc095928-7fb8-4702-a01c-371fb0fe26c5"
+      ],
+      "enriched_at": "2017-09-01 02:18:14.123456+02:00",
+      "first_seen": "2017-09-01 00:44:00+02:00",
+      "families": [
+        "suppobox"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized"
+      ],
+      "max_seq": 653379772
+    },
+    {
+      "enrich": false,
+      "min_seq": 697149875,
+      "value": "thefooofthebar.com",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-02 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "a0a3e2d9-8ad4-48fb-a837-9e1357a20434",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-19 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "d753bde6-3ca1-44a9-8176-6c80cfcba7bd"
+      ],
+      "enriched_at": "2017-09-01 03:17:28.123456+02:00",
+      "first_seen": "2017-09-01 00:02:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 697149875
+    },
+    {
+      "enrich": false,
+      "min_seq": 696845201,
+      "value": "foolicious.com",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-04 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "71bc3d13-998c-4005-9bd6-e1aef19d3e67",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-22 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "4704daef-002c-48cb-9c46-67adcde47029",
+        "76b8666b-c97b-443d-bd3a-2d3ede1541e6"
+      ],
+      "enriched_at": "2017-09-01 11:02:29.123456+02:00",
+      "first_seen": "2017-09-01 01:20:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 975808959
+    },
+    {
+      "enrich": false,
+      "min_seq": 667944047,
+      "value": "barfoofoo.com",
+      "source_names": [
+        "the_barn"
+      ],
+      "last_seen": "2017-09-09 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "bef8818a-7ded-41e1-8c36-809ecf31ac5f",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-25 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "bd0c6f63-d019-4b7a-8305-ee99fab37d2a"
+      ],
+      "enriched_at": "2017-09-01 06:09:29.123456+02:00",
+      "first_seen": "2017-09-01 05:55:00+02:00",
+      "families": [
+        "pykspa"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f"
+      ],
+      "event_attributes": [],
+      "min_confidence": 90,
+      "n_occurrences": 1,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [
+        "category:uncategorized",
+        "dns-txt-entry:1|www.acme.com",
+        "dns-txt-entry:v=spf1 a:mail.acme.com mx:mail.acme.com ptr:mail.acme.com ip4:192.168.169.84 -all"
+      ],
+      "max_seq": 667944047
+    },
+    {
+      "enrich": false,
+      "min_seq": 696844792,
+      "value": "mydirtyfoobar.com",
+      "source_names": [
+        "the_barn",
+        "abyss_iocs"
+      ],
+      "last_seen": "2017-10-08 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "phishing",
+        "malware",
+        "c2-server"
+      ],
+      "id": "7789429d-ca6c-43b7-9de5-5ae2c350e41b",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-10-14 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 2,
+      "created_at": "2017-09-01 02:40:08.888541+02:00",
+      "event_ids": [
+        "66521cc6-9af1-43a4-a1c7-81145d700745",
+        "5e9cbdcd-32d6-40c9-8236-e44861d2d720"
+      ],
+      "enriched_at": "2017-09-01 07:44:10.123456+02:00",
+      "first_seen": "2017-09-01 03:22:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "f2317d24"
+      ],
+      "event_attributes": [
+        "category:malware"
+      ],
+      "min_confidence": 80,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 975796031
+    },
+    {
+      "enrich": false,
+      "min_seq": 678954039,
+      "value": "yxc22foo3bar.net",
+      "source_names": [
+        "the_barn",
+        "IOCWizzard"
+      ],
+      "last_seen": "2017-09-07 10:30:00+02:00",
+      "entity_ids": [],
+      "categories": [
+        "c2-server"
+      ],
+      "id": "1a60ce03-390f-4b40-a4a1-d2a8e5207a07",
+      "t_1": null,
+      "min_severity": 1,
+      "enrichment_requested_at": null,
+      "updated_at": "2017-09-11 02:45:40.105050+02:00",
+      "actors": [],
+      "hotness": 0.0,
+      "comment": null,
+      "observation_attributes": [],
+      "max_severity": 1,
+      "created_at": "2017-09-02 02:40:08.888541+02:00",
+      "event_ids": [
+        "9f1e42ab-f58a-4152-b39f-888abf49a063",
+        "0842d7bf-d3b5-4d10-bb00-a473dbddf51a"
+      ],
+      "enriched_at": "2017-09-02 09:37:22.123456+02:00",
+      "first_seen": "2017-09-02 08:45:00+02:00",
+      "families": [
+        "necurs"
+      ],
+      "source_pseudonyms": [
+        "4632aa2f",
+        "35632462"
+      ],
+      "event_attributes": [],
+      "min_confidence": 50,
+      "n_occurrences": 2,
+      "a_1": null,
+      "max_confidence": 90,
+      "data_type": "DomainName",
+      "gamma": 3.85e-06,
+      "ioc_attributes": [],
+      "max_seq": 689521726
+    }
+  ],
+  "has_more": true,
+  "params": {
+    "no_defaults": false,
+    "confidence": "60-",
+    "limit": 50,
+    "date_format": "default",
+    "enriched": false,
+    "severity": "1-",
+    "match_all": "",
+    "direction": "desc",
+    "created_until": "2017-09-02T00:00:00+00:00",
+    "created_since": "2017-09-01T00:00:00+00:00",
+    "offset": 0,
+    "order_by": "last_seen",
+    "exact": false,
+    "category": "c2-server"
+  }
+}
